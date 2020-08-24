@@ -27,12 +27,12 @@ If you wish to follow the schema first approach, you must implement the Upload s
 
 # Postman
 
-![Upload Via API](./screenshots/postman.png?raw=true "Upload Via API")
+![Upload Via API](https://github.com/nbaua/AngularNestJsGraphqlUpload/blob/master/screenshots/postman.PNG "Upload Via API")
 
 # 1
 
-![Uploading File](./screenshots/screen1.png?raw=true "Uploading File")
+![Uploading File](https://github.com/nbaua/AngularNestJsGraphqlUpload/blob/master/screenshots/screen1.PNG "Uploading File")
 
 # 2
 
-![File Uploaded](./screenshots/screen2.png?raw=true "File Uploaded")
+![File Uploaded](https://github.com/nbaua/AngularNestJsGraphqlUpload/blob/master/screenshots/screen2.PNG "File Uploaded")
